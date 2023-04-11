@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: de568c6a10a89914fbf9e4ad7c0981dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - parentCanvas: {instanceID: 0}
+  - Right: {instanceID: 0}
+  - Stick: {instanceID: 0}
+  - NowControlChar: {instanceID: 0}
+  - Arrow: {instanceID: 0}
+  - swipeManager: {instanceID: 0}
+  - BasicAttackButton: {instanceID: 0}
+  - Skill1Button: {instanceID: 0}
+  - Skill2Button: {instanceID: 0}
+  - CCButton1: {instanceID: 0}
+  - CCButton2: {instanceID: 0}
+  - HoldButton: {instanceID: 0}
+  - ChaserClawAttackImage: {instanceID: 0}
+  - ChaserClawSkill2Image: {instanceID: 0}
+  - DummyCharacter: {fileID: 6382005434980549386, guid: 0b9739d0ec1c42143b31028865871bc1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

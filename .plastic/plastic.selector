@@ -1,0 +1,4 @@
+repository "Lightning Castle@Team_PPL@cloud"
+  path "/"
+    br "/main"
+    co "/main"

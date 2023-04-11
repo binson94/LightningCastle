@@ -1,0 +1,25 @@
+chaser
+
+_st standby 대기
+_r running 이동              ; 01~05 (재생순서; 01 02 03 04 05 04 03 02 반복)
+_j jumping 점프             ; 01~04 
+_at attacking                 ; 보우 01~03 (재생순서; 01 02 03 반복)
+		         ; 클로 01~05 (재생순서; 01 02 03 04 05 반복)
+_sk1 skill #1 (rush)
+_sk2 skill #2 (change)      ; 보우>클로 01 02 03 
+		        ; 클로>보우 03 02 01
+_atd attacked
+_d died 
+_s sitting
+_l lying
+
+_cr 크로스보우
+_cl 클로
+
+_rc 빨강색
+_oc 주황색
+_yc 노랑색
+_gc 초록색
+_bc 파랑색
+_nc 남색
+_pc 보라색

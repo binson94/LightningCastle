@@ -1,0 +1,170 @@
+[
+  {
+    "shopMin": 3,
+    "shopMax": 15,
+    "forgeMin": 7.5,
+    "forgeMax": 15
+  },
+  {
+    "shopMin": 10,
+    "shopMax": 50,
+    "forgeMin": 25,
+    "forgeMax": 50
+  },
+  {
+    "shopMin": 6,
+    "shopMax": 30,
+    "forgeMin": 15,
+    "forgeMax": 30
+  },
+  {
+    "shopMin": 1,
+    "shopMax": 5,
+    "forgeMin": 2.5,
+    "forgeMax": 5
+  },
+  {
+    "shopMin": 8,
+    "shopMax": 40,
+    "forgeMin": 20,
+    "forgeMax": 40
+  },
+  {
+    "shopMin": 8,
+    "shopMax": 40,
+    "forgeMin": 20,
+    "forgeMax": 40
+  },
+  {
+    "shopMin": 10,
+    "shopMax": 50,
+    "forgeMin": 25,
+    "forgeMax": 50
+  },
+  {
+    "shopMin": 5,
+    "shopMax": 25,
+    "forgeMin": 12.5,
+    "forgeMax": 25
+  },
+  {
+    "shopMin": 4,
+    "shopMax": 20,
+    "forgeMin": 10,
+    "forgeMax": 20
+  },
+  {
+    "shopMin": 4,
+    "shopMax": 20,
+    "forgeMin": 10,
+    "forgeMax": 20
+  },
+  {
+    "shopMin": 4,
+    "shopMax": 20,
+    "forgeMin": 10,
+    "forgeMax": 20
+  },
+  {
+    "shopMin": 5,
+    "shopMax": 25,
+    "forgeMin": 12.5,
+    "forgeMax": 25
+  },
+  {
+    "shopMin": 6,
+    "shopMax": 30,
+    "forgeMin": 15,
+    "forgeMax": 30
+  },
+  {
+    "shopMin": 4,
+    "shopMax": 20,
+    "forgeMin": 10,
+    "forgeMax": 20
+  },
+  {
+    "shopMin": 6,
+    "shopMax": 30,
+    "forgeMin": 15,
+    "forgeMax": 30
+  },
+  {
+    "shopMin": 20,
+    "shopMax": 100,
+    "forgeMin": 50,
+    "forgeMax": 100
+  },
+  {
+    "shopMin": 12,
+    "shopMax": 60,
+    "forgeMin": 30,
+    "forgeMax": 60
+  },
+  {
+    "shopMin": 2,
+    "shopMax": 10,
+    "forgeMin": 5,
+    "forgeMax": 10
+  },
+  {
+    "shopMin": 16,
+    "shopMax": 80,
+    "forgeMin": 40,
+    "forgeMax": 80
+  },
+  {
+    "shopMin": 16,
+    "shopMax": 80,
+    "forgeMin": 40,
+    "forgeMax": 80
+  },
+  {
+    "shopMin": 20,
+    "shopMax": 100,
+    "forgeMin": 50,
+    "forgeMax": 100
+  },
+  {
+    "shopMin": 10,
+    "shopMax": 50,
+    "forgeMin": 25,
+    "forgeMax": 50
+  },
+  {
+    "shopMin": 8,
+    "shopMax": 40,
+    "forgeMin": 20,
+    "forgeMax": 40
+  },
+  {
+    "shopMin": 8,
+    "shopMax": 40,
+    "forgeMin": 20,
+    "forgeMax": 40
+  },
+  {
+    "shopMin": 8,
+    "shopMax": 40,
+    "forgeMin": 20,
+    "forgeMax": 40
+  },
+  {
+    "shopMin": 10,
+    "shopMax": 50,
+    "forgeMin": 25,
+    "forgeMax": 50
+  },
+  {
+    "shopMin": 12,
+    "shopMax": 60,
+    "forgeMin": 30,
+    "forgeMax": 60
+  },
+  {
+    "shopMin": 8,
+    "shopMax": 40,
+    "forgeMin": 20,
+    "forgeMax": 40
+  }
+]

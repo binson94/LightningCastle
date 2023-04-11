@@ -1,0 +1,5 @@
+[night] 
+night_bg ¢º fireplace / torchlight ¢º character / monster ¢ºcolumn
+
+[day]
+day_bg ¢º fireplace (=forge fire) / torchlight (¡õportal) ¢ºcharacter ¢º column

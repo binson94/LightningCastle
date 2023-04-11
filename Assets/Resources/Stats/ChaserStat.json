@@ -1,0 +1,7 @@
+[{"MaxHP":30,"AttackMin":3,"AttackMax":4,"ClawAttackMin":4,"ClawAttackMax":5,"PhysicalDefense":1,"MagicDefense":1,"AttackSpeed":2,"ClawAttackSpeed":1,"MovementSpeed":13},
+{"MaxHP":45,"AttackMin":5,"AttackMax":6,"ClawAttackMin":7,"ClawAttackMax":8,"PhysicalDefense":2,"MagicDefense":2,"AttackSpeed":2,"ClawAttackSpeed":1,"MovementSpeed":13},
+{"MaxHP":60,"AttackMin":7,"AttackMax":9,"ClawAttackMin":10,"ClawAttackMax":11,"PhysicalDefense":2,"MagicDefense":2,"AttackSpeed":2,"ClawAttackSpeed":1,"MovementSpeed":13},
+{"MaxHP":75,"AttackMin":9,"AttackMax":11,"ClawAttackMin":13,"ClawAttackMax":15,"PhysicalDefense":3,"MagicDefense":3,"AttackSpeed":2,"ClawAttackSpeed":1,"MovementSpeed":13},
+{"MaxHP":90,"AttackMin":11,"AttackMax":14,"ClawAttackMin":16,"ClawAttackMax":18,"PhysicalDefense":4,"MagicDefense":4,"AttackSpeed":2,"ClawAttackSpeed":1,"MovementSpeed":13},
+{"MaxHP":105,"AttackMin":13,"AttackMax":16,"ClawAttackMin":19,"ClawAttackMax":21,"PhysicalDefense":4,"MagicDefense":4,"AttackSpeed":2,"ClawAttackSpeed":1,"MovementSpeed":13},
+{"MaxHP":120,"AttackMin":15,"AttackMax":19,"ClawAttackMin":22,"ClawAttackMax":25,"PhysicalDefense":5,"MagicDefense":5,"AttackSpeed":2,"ClawAttackSpeed":1,"MovementSpeed":13}]
